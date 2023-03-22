@@ -13,4 +13,4 @@
 
 ##### Feel free to contact me for anything!
 
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Avanti)]
+
