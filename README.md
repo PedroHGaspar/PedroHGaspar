@@ -2,7 +2,7 @@
 
 
 #### I'm currently working as a Front-End Jr. Developer in Avanti, an E-commerce company!
-#### My daily work involves: React and React Native, VTEX, HTML5, CSS3, SASS, Typescript, Javascript and Graphql(sometimes i work with backend).
+#### My daily work involves: React, VTEX, HTML5, CSS3, SASS, Typescript, Javascript and Graphql(sometimes i work with backend).
 #### My personal projects are involving technologies that i want to improve and learn, such as: React and React Native, Three.js(3D styling) and Tailwind CSS.
 <br />
 
