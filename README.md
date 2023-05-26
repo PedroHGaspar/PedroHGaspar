@@ -6,8 +6,6 @@
 #### My personal projects are involving technologies that i want to improve and learn, such as: React and React Native, Three.js(3D styling) and Tailwind CSS.
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHGaspar&show_icons=true&count_private=true&theme=dark) <br />
-
 ## 🛠 My abilities
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
