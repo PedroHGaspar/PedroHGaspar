@@ -1,8 +1,6 @@
 ## Hi there, I'm Pedro Gaspar 👋
 
-
-#### I'm currently working as a Front-End Jr. Developer in Avanti, an E-commerce company!
-#### My daily work involves: React(JavaScript), VTEX, HTML5, CSS3, SASS, Typescript, and Graphql(sometimes i work with backend).
+#### My daily work involves: React.Js(JavaScript), HTML5, CSS3, SASS, Typescript, Node.Js and Firebase.
 #### My personal projects are involving technologies that i want to improve and learn, such as: React and React Native, Three.js(3D styling) and Tailwind CSS.
 <br />
 
