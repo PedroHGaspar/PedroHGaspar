@@ -2,8 +2,7 @@
 
 #### My daily work involves: React.Js(JavaScript) and React Native, HTML5, CSS3, Typescript, Node.Js and Firebase.
 #### My personal projects are involving technologies that i want to improve and learn, such as: React and React Native, Three.js(3D styling), Tailwind CSS, Python and AWS.
-<br />
-#### consistency is the key!
+#### Consistency is the key!
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHGaspar&show_icons=true&count_private=true&theme=dark) <br />
