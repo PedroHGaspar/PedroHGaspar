@@ -4,7 +4,7 @@
 • 👨‍💻 Currently mostly into webapps and devtools. <br />
 • 🤝 Team Work Enthusiast <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
-• 🏫 Student @<a href="https://www.linkedin.com/in/pedro-henrique-gaspar-826978239/">SENAI</a> <br />
+• 🏫 Student @<a href="[https://www.linkedin.com/in/pedro-henrique-gaspar-826978239/](https://sc.senai.br/)">SENAI</a> <br />
 • 💚 Consistency is the key! 
 <br />
 
