@@ -1,7 +1,7 @@
 ## Hi there, I'm Pedro Gaspar 👋
 
 # Software Engineer <br />
-• 👨‍💻 Currently mostly into webapps and devtools. <br />
+• 👨‍💻 Currently mostly into webapps and Front End applications. <br />
 • 🤝 Team Work Enthusiast <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
 • 🏫 Student @<a href="https://sc.senai.br/" target="_blank">SENAI</a> <br />
