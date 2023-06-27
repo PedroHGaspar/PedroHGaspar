@@ -5,7 +5,8 @@
 • 🤝 Team Work Enthusiast <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
 • 🏫 Student @<a href="https://sc.senai.br/" target="_blank">SENAI</a> <br />
-• 💚 Consistency is the key! 
+• 💚 Consistency is the key! <br />
+• ⭐ You can see my portfolio in <a href="https://main-portfolio-pedro.vercel.app" target="_blank">here!</a>
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHGaspar&show_icons=true&count_private=true&theme=dark) <br />
