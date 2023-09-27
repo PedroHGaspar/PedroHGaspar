@@ -1,6 +1,6 @@
 ## Hi there, I'm Pedro Gaspar 👋
 
-# Software Engineer <br />
+# Front End Developer <br />
 • 👨‍💻 Currently mostly into webapps and Front End applications. <br />
 • 💼 Currently working at @<a href="https://www.sommainvestimentos.com.br/asset/" target="_blank">SOMMA</a> <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
