@@ -3,7 +3,6 @@
 # Software Engineer <br />
 • 👨‍💻 Currently mostly into webapps and Front End applications. <br />
 • 💼 Currently working at @<a href="https://www.sommainvestimentos.com.br/asset/" target="_blank">SOMMA</a> <br />
-• 🤝 Team Work Enthusiast <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
 • 🏫 Student @<a href="https://sc.senai.br/" target="_blank">SENAI</a> <br />
 • 💚 Consistency is the key! <br />
