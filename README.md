@@ -4,7 +4,6 @@
 • 👨‍💻 Currently mostly into webapps and Front End applications. <br />
 • 💼 Currently working at @<a href="https://www.sommainvestimentos.com.br/asset/" target="_blank">SOMMA</a> <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
-• 🏫 Student @<a href="https://sc.senai.br/" target="_blank">SENAI</a> <br />
 • 💚 Consistency is the key! <br />
 • ⭐ You can see my portfolio in <a href="https://main-portfolio-pedro.vercel.app" target="_blank">here!</a>
 <br />
