@@ -7,7 +7,10 @@
 • ⭐ You can see my portfolio in <a href="https://main-portfolio-pedro.vercel.app" target="_blank">here!</a>
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHGaspar&show_icons=true&count_private=true&theme=dark) <br />
+<div>
+    <img width="40%" class="output" src="https://github-readme-stats.vercel.app/api?username=PedroHGaspar&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+    <img width="42.5%" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHGaspar&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+</div>
 
 ## 🛠 My abilities
 
