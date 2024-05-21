@@ -9,7 +9,7 @@
 
 <div>
     <img width="45%" class="output" src="https://github-readme-stats.vercel.app/api?username=PedroHGaspar&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-    <img width="47.5%" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHGaspar&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+    <img width="47.6%" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHGaspar&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
 </div>
 
 ## 🛠 My abilities
