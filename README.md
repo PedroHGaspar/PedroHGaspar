@@ -2,7 +2,7 @@
 
 # Front End Developer <br />
 • 👨‍💻 Currently mostly into webapps and Front End applications. <br />
-• 💼 Currently working at @<a href="https://www.sommainvestimentos.com.br/asset/" target="_blank">SOMMA</a> <br />
+• 💼 Currently working at @<a href="https://www.sommainvestimentos.com.br/sobre-nos-v24/" target="_blank">SOMMA</a> <br />
 • 🌍 Based in Brazil ᴮᴿ <br />
 • ⭐ You can see my portfolio in <a href="https://main-portfolio-pedro.vercel.app" target="_blank">here!</a>
 <br />
