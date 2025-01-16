@@ -66,6 +66,6 @@ Feel free to reach out through any of the platforms below:
 ---
 
 
-✨ **"Like stars in the vast sky, we shine brightest when we embrace our true light."** ✨
+✨ **"Work hard, fail, fail, fail and fail, until you succeed, then keep working."** ✨
 
 
