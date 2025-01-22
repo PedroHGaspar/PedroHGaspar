@@ -1,12 +1,8 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Front-End+Developer.;I+love+building+amazing+UI/UX!" alt="Typing Animation">
-</div>
-
 # 👋 Hello, World! I'm **Pedro Gaspar** 🚀
 
-Welcome to my digital playground! As a **Front-End Developer**, I'm on a mission to create visually stunning and user-friendly web applications that bring ideas to life. Here's a little about me:
+I'm just a guy who likes coding, studying and being at peace. If you find anything interesting here and wants to chat, just send me a message!
 
-- 👨‍💻 Currently diving deep into **web applications** and **dynamic user experiences**.  
+- 👨‍💻 Currently focusing on my mobile app as a personal goal.  
 - 💼 Proudly working at [SOMMA Investimentos](https://www.sommainvestimentos.com.br/sobre-nos-v24/).  
 - 🌎 Coding from **Brazil** 🇧🇷, dreaming globally.  
 - ⭐ Peek at my portfolio [here](https://meu-portfolio-pied-ten.vercel.app)!  
@@ -44,8 +40,7 @@ Here are the tools and technologies I use:
 ---
 
 ## 💬 Let's Connect!
-
-I'm always open to collaborating on exciting projects or just having a tech chat!  
+ 
 Feel free to reach out through any of the platforms below:
 
 <div align="center">
