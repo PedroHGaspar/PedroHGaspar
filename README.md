@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm **Pedro Gaspar** 🚀
 
-I'm just a guy who likes coding, camping and being at peace. If you find anything interesting here and wants to chat, just send me a message!
+I'm just a guy who likes coding, camping and travelling. If you find anything interesting here and wants to chat, just send me a message!
 
 - 👨‍💻 Currently focusing on my mobile app as a personal goal.  
 - 💼 Proudly working at [SOMMA Investimentos](https://www.sommainvestimentos.com.br/sobre-nos-v24/).  
