@@ -5,7 +5,7 @@ I'm just a guy who likes coding, camping and travelling. If you find anything in
 - 👨‍💻 Currently focusing on my mobile app as a personal goal.  
 - 💼 Proudly working at [SOMMA Investimentos](https://www.sommainvestimentos.com.br/sobre-nos-v24/).  
 - 🌎 Coding from **Brazil** 🇧🇷, wanting to travel.  
-- ⭐ Peek at my portfolio [here](https://meu-portfolio-pied-ten.vercel.app)!  
+- ⭐ Peek at my portfolio [here](https://portfolio-novo-2026.vercel.app/)!  
 
 ---
 
