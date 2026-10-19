@@ -1,17 +1,10 @@
 # 👋 Hello, World! I'm **Pedro Gaspar** 🚀
 
-I'm just a guy who likes coding, camping and travelling. If you find anything interesting here and wants to chat, just send me a message!
-
-- 👨‍💻 Currently focusing on my mobile app as a personal goal.  
-- 💼 Proudly working at [SOMMA Investimentos](https://www.sommainvestimentos.com.br/sobre-nos-v24/).  
-- 🌎 Coding from **Brazil** 🇧🇷, wanting to travel.  
-- ⭐ Peek at my portfolio [here](https://portfolio-novo-2026.vercel.app/)!  
+Meu portfolio [aqui](https://portfolio-novo-2026.vercel.app/)!  
 
 ---
 
-## 🛠️ My Toolkit
-
-Here are the tools and technologies I use:
+## 🛠️ Algumas das minhas skills técnicas:
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,13 +19,15 @@ Here are the tools and technologies I use:
     <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
 ## 💬 Let's Connect!
  
-Feel free to reach out through any of the platforms below:
+Pode me chamar em qualquer uma dessas redes:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/pedro-henrique-gaspar-826978239/">
@@ -52,6 +47,6 @@ Feel free to reach out through any of the platforms below:
 ---
 
 
-✨ **"Work hard, fail, fail, fail and fail, until you succeed, then keep working."** ✨
+✨ **"Se custa sua paz, é muito caro."** ✨
 
 
